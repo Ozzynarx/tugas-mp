@@ -104,7 +104,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </form>
 
     <p><?= htmlspecialchars($message) ?></p>
-    <a href="login.php">Go to Login</a>
+    <a href="index.php">Go to Login</a>
 </div>
 
 </body>
